@@ -1,0 +1,21 @@
+/**
+ * Admin Styles
+ * 
+ * @package WP_Swiss_Business_Suite
+ * @since   1.0.0
+ */
+
+/* Admin Dashboard Cards */
+.wp-swiss-business-suite .card {
+    padding: 20px;
+    margin: 20px 0;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.wp-swiss-business-suite .card h2 {
+    margin-top: 0;
+}
+
+/* Coming soon in Phase 1 */

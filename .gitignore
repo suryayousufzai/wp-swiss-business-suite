@@ -1,0 +1,29 @@
+# WordPress
+.DS_Store
+thumbs.db
+
+# Plugin specific
+*.log
+*.tmp
+
+# Development files
+node_modules/
+.sass-cache/
+.vscode/
+.idea/
+
+# Composer
+vendor/
+composer.lock
+
+# NPM
+package-lock.json
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
